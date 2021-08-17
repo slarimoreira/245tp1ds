@@ -11,5 +11,5 @@ function clock (){
     minutes.innerHTML = m;
     seconds.innerHTML = s;
 }
-    //Essa função faz alguma coisa
+
     var interval = setInterval(clock, 1000);
